@@ -90,5 +90,7 @@ fun TodoApp(modifier: Modifier = Modifier) {
 fun GreetingPreview() {
     REOTodosTheme {
         TodoApp()
+
+        //improve user interface
     }
 }
