@@ -1,1 +1,1 @@
-# Simple To-Do-APP made using Kotlin
+# A simple To Do app  
